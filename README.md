@@ -1,5 +1,17 @@
 # minishell_tester
 
+Key Features:
+
+    Comprehensive Coverage - Tests all mandatory requirements from subject
+
+    Automatic Checks - Compilation, exit codes, file operations
+
+    Isolated Environment - Uses temporary directory
+
+    Manual Signal Verification - Clear instructions for manual testing
+
+    Color-coded Output - Easy visual verification
+
 Usage:
 
     Save as minishell_tester.sh
